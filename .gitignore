@@ -1,3 +1,11 @@
 
 # ignore specific file types: here to ignore csv files 
 #*.csv
+
+#it can also ignore specific folder: 
+#name of folder/
+
+#we can also ignore everything and synchronise only the desired files: 
+
+!*.R 
+#everything will be ignore except R file 
